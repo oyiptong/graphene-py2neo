@@ -1,0 +1,15 @@
+*.pyc
+.*.swp
+.*.swo
+*.log
+*.egg-info
+.coverage
+graphene-py2neo-env
+.idea/
+build/
+dist/
+logs/
+cover/
+temp/
+tmp/
+MANIFEST
